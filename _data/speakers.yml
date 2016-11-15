@@ -22,7 +22,6 @@ keynote:
         position:
         bio:
 
-
 breakout:
     -   name: Berkley Staite
         position: Game Developer
@@ -39,7 +38,6 @@ breakout:
         bio:
 
     -   name: Huma Zafar
-        position:
         bio: Huma prefers not to keep her hands still, whether that involves working on one of her many knitting projects, learning a new weaving technique on her loom, typing away at her keyboard as she plays with some new programming language, or gesturing endlessly as she talks. She reads a lot.
         pic: hzafar.jpg
 
