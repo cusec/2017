@@ -9,8 +9,9 @@ keynote:
         bio:
 
     -   name: Liz Abinante
-        position:
-        bio:
+        position: Senior Software Engineer @ New Relic
+        bio: Liz Abinante lives in Portland, Oregon and works as a Senior Software Engineer at New Relic. She is infectiously enthusiastic about web development, teaching, learning, and feminism. She enjoys speaking at conferences, knitting, sewing, and a hacking away on interesting problems. Her greatest dream in life is to spend her entire day surrounded by puppies while coding.
+        pic: liz.jpg
 
     -   name: Lynn Root
         position: Site Reliability Engineer &amp; FOSS Evangelist @ Spotify
@@ -21,11 +22,12 @@ keynote:
         position:
         bio:
 
-breakout:
 
+breakout:
     -   name: Berkley Staite
-        position:
-        bio:
+        position: Game Developer
+        bio: "Whether teaching, playing, or creating, Berkley is driven by the desire to find compelling entry points into the world of games for people of all backgrounds and levels of experience. He believes in the unique potential of interactivity to connect, to persuade, and to inspire, and is committed to sharing and cultivating these possibilities. <br><br> Berkley brings with him instructional experience in a broad variety of topics: game design, acroyoga, sexual health, and drama, through which he has worked with a wide range of youth and adults. Additionally, his design credits include work for Alientrap Games, Jennifer Ann's Group, and the Western Development Museum, working in a combination of digital and real-world spaces."
+        pic: berkley.png
 
     -   name: Emil Stolarsky
         position: Production Engineer @ Shopify
